@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp4.TurnoExistente
 {
-    partial class TurnoExistente
+    partial class CobrarConsultaForm
     {
         /// <summary>
         /// Required designer variable.

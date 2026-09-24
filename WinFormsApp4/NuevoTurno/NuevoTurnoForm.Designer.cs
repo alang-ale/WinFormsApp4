@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp4
 {
-    partial class NuevoTurno
+    partial class NuevoTurnoForm
     {
         /// <summary>
         /// Required designer variable.

@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp4
 {
-    partial class ConsultaOdontologo
+    partial class RegistraInformacionClinicaForm
     {
         /// <summary>
         /// Required designer variable.
@@ -157,8 +157,7 @@
             label2.Name = "label2";
             label2.Size = new Size(81, 20);
             label2.TabIndex = 5;
-            label2.Text = "Atendidos";
-            label2.Click += this.label2_Click;
+            label2.Text = "Atendidos";            
             // 
             // dataGridView2
             // 

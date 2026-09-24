@@ -1,8 +1,8 @@
 namespace WinFormsApp4
 {
-    public partial class RecepcionarPaciente : Form
+    public partial class RecepcionarPacienteForm : Form
     {
-        public RecepcionarPaciente()
+        public RecepcionarPacienteForm()
         {
             InitializeComponent();
         }

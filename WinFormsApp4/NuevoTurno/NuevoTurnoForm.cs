@@ -6,21 +6,21 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace WinFormsApp4.TurnoExistente
+namespace WinFormsApp4
 {
-    public partial class TurnoExistente : Form
+    public partial class NuevoTurnoForm : Form
     {
-        public TurnoExistente()
+        public NuevoTurnoForm()
         {
             InitializeComponent();
         }
 
-        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        private void label10_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void panel1_Paint(object sender, PaintEventArgs e)
         {
 
         }

@@ -1,16 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
-using System.Windows.Forms;
-
-namespace WinFormsApp4
+﻿namespace WinFormsApp4
 {
-    public partial class ConsultaOdontologo : Form
+    public partial class RegistraInformacionClinicaForm : Form
     {
-        public ConsultaOdontologo()
+        public RegistraInformacionClinicaForm()
         {
             InitializeComponent();
         }
