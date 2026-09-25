@@ -40,7 +40,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(153, 242);
+            button1.Location = new Point(154, 258);
             button1.Margin = new Padding(3, 2, 3, 2);
             button1.Name = "button1";
             button1.Size = new Size(151, 22);
@@ -51,7 +51,7 @@
             // 
             // button2
             // 
-            button2.Location = new Point(153, 216);
+            button2.Location = new Point(154, 232);
             button2.Margin = new Padding(3, 2, 3, 2);
             button2.Name = "button2";
             button2.Size = new Size(151, 22);
@@ -65,7 +65,7 @@
             label1.BackColor = Color.Peru;
             label1.Font = new Font("Bell MT", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.ButtonHighlight;
-            label1.Location = new Point(14, 125);
+            label1.Location = new Point(35, 136);
             label1.Name = "label1";
             label1.Size = new Size(386, 26);
             label1.TabIndex = 3;
@@ -87,7 +87,7 @@
             // 
             // button3
             // 
-            button3.Location = new Point(134, 190);
+            button3.Location = new Point(135, 206);
             button3.Margin = new Padding(3, 2, 3, 2);
             button3.Name = "button3";
             button3.Size = new Size(195, 22);
@@ -98,7 +98,7 @@
             // button4
             // 
             button4.ForeColor = Color.Red;
-            button4.Location = new Point(153, 164);
+            button4.Location = new Point(154, 180);
             button4.Margin = new Padding(3, 2, 3, 2);
             button4.Name = "button4";
             button4.Size = new Size(151, 22);
